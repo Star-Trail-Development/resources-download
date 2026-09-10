@@ -6,7 +6,7 @@ on:
     branches: [ main ]
 
 concurrency:
-  group: deploy-modrinth-resources
+  group: deploy-resources
   cancel-in-progress: false
 
 jobs:
@@ -63,7 +63,6 @@ jobs:
         env:
           FILEHUB_URL: ${{ secrets.FILEHUB_URL }}
           FILEHUB_TOKEN: ${{ secrets.FILEHUB_TOKEN }}
-          FILEHUB_REMOTE_ROOT: modrinth-resources
         shell: bash
         run: |
           set -euo pipefail
@@ -100,7 +99,7 @@ jobs:
 
           current_resource_paths=()
           for local_file in "${resource_files[@]}"; do
-            remote_path="${FILEHUB_REMOTE_ROOT}/${local_file}"
+            remote_path="$local_file"
             encoded_path="$(python3 -c 'import sys, urllib.parse; print("/".join(urllib.parse.quote(part, safe="") for part in sys.argv[1].split("/")))' "$remote_path")"
             local_sha256="$(sha256sum "$local_file" | cut -d ' ' -f 1)"
             current_resource_paths+=("$remote_path")
@@ -144,9 +143,9 @@ jobs:
           fi
 
           managed_prefixes=(
-            "${FILEHUB_REMOTE_ROOT}/mods/"
-            "${FILEHUB_REMOTE_ROOT}/resourcepacks/"
-            "${FILEHUB_REMOTE_ROOT}/shaderpacks/"
+            "mods/"
+            "resourcepacks/"
+            "shaderpacks/"
           )
           mapfile -t remote_resource_paths < <(
             jq -r \
