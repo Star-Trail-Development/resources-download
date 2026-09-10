@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'xaeroworldmap-neoforge-1.21.1-1.44.2.jar'
 hash = 'beea95c1a2ca78e1a6ca0a0ddc7770672101fb60'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8449921

@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'IMBlocker-v5.5.4-neoforge'
 hash = '4910d4aeab9e5d23b4facb592a18136e64caf3e5'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8167852

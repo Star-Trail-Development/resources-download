@@ -63,7 +63,6 @@ x-prismlauncher-version-number = 'Photon Shaders v1.3b'
 hash = 'd975d25c9686de5f10e8b86c8518613cdf3f040a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7927503

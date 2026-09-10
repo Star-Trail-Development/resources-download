@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'amendments-1.21-2.1.7-neoforge'
 hash = '69b9a6243a1513f7e40780367c40d23a4d687439'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8415430

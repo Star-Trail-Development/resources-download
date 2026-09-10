@@ -11,7 +11,6 @@ x-prismlauncher-version-number = "Oh-The-Trees-You'll-Grow-NeoForge-1.21.1-5.3.2
 hash = '1867792e4e3d9fc6bb7acabb31cbec7a3d49ecad'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8096180

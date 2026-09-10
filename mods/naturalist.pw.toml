@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Naturalist 2.0.2 (NeoForge 1.21.1)'
 hash = '6ef58b3e4dc38867f2f69efc8b8a76098dbdd58c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8528824

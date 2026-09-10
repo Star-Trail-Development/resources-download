@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0'
 hash = '4611dc5bb4240333178e14e81f76168f78167448'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8245253

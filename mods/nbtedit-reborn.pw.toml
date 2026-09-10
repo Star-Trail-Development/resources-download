@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'NBTEdit NeoForge 1.21.1-5.2.11'
 hash = '5bc1295d210ec0a58e0afe9171b457f8647463c1'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6125444

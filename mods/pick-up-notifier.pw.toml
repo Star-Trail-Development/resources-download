@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] PickUpNotifier-v21.1.1'
 hash = '90d3fe207c95a3a5d849ebf8d70ffa885694e30f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6409785

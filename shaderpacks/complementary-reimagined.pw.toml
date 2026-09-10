@@ -52,7 +52,6 @@ x-prismlauncher-version-number = 'Complementary Reimagined r5.8.1'
 hash = '5a021081f0178ed91dd911194071465ab0a4348b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8123287

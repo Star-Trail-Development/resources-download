@@ -11,7 +11,6 @@ x-prismlauncher-version-number = "[1.21.1] YUNG's API v5.1.6 (NeoForge)"
 hash = 'e1c394779fb9e038e4f7a1b4558d0432607d263b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6715463

@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'AppliedFlux-1.21-2.1.5-neoforge.jar'
 hash = 'a98eeadf414e6b3f6878324a3fbdee3fa5fcdadf'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8204513

@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] OverflowingBars-v21.1.1'
 hash = 'a9dea4b9ef893fc955512ff2dee75c9c82e09a52'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 5770623

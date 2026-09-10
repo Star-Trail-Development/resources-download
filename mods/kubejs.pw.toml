@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'KubeJS NeoForge 2101.7.2-build.368'
 hash = 'cd8e1e392d642e4d0f1fbc099d93da105c263d0d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8083208

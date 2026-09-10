@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Iris 1.8.14 Beta 1 for NeoForge 1.21.1'
 hash = '1bd129cf7bce65d6b1c0543045f0620c98a0f885'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8242804

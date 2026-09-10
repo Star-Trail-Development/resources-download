@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'FastWorkbench-1.21.1-9.1.3.jar'
 hash = '7343b63ded70c0546811c768118d16d3a86418ee'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6751534

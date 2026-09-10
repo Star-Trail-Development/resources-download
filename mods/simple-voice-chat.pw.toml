@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '[NEOFORGE][1.21.1] Simple Voice Chat 1.21.1-2.
 hash = '3b2001d8df61fe6dc03dcd5f5cd4a8f49821feb0'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8601207

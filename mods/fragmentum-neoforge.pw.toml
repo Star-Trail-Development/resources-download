@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'Fragmentum 2.4.1'
 hash = '64ebd8de19fa346ce3adfa4637ed597104f4623e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8635129

@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Abundant Atmosphere 1.21.1-2.0.0-beta-Neoforge
 hash = '9bfecc29046f88d9a6fa793685a36c9e490d1ce1'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6957664

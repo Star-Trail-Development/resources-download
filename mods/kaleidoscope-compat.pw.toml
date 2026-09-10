@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'kaleidoscope_compat-2.9.7-neoforge+mc1.21.1.ja
 hash = 'a69492f0a085eebb37f64e606bf2065aa66badbf'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8442816

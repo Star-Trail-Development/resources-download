@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'integratedmekanism-1.21.1-neoforge-1.0.4-110.j
 hash = '6f75589c50ada2929593973e5c7c0f718b843225'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8512874

@@ -45,7 +45,6 @@ x-prismlauncher-version-number = 'Bliss v2.1.2'
 hash = 'ded6c8a98305f8aff90ef781e7585b33b8452cfd'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7251787

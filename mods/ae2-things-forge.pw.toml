@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'AE2 Things v1.4.2-beta'
 hash = '593ad26ae4143f529a63cc63b96c6430ebba67c3'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 5637783

@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'integratedterminals-1.21.1-neoforge-1.7.0-800.
 hash = 'a2dd0417112f479115f3c0af73fa45f5aa53e713'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8533011

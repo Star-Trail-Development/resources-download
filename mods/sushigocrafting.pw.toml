@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'sushigocrafting-1.21-0.6.5.jar'
 hash = '328da659d28e6a900d12f5638878998a796abd68'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6626716

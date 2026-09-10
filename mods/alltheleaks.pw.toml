@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'alltheleaks-1.1.11+1.21.1-neoforge.jar'
 hash = 'f94d617b2e887e4bee6f54377c0a931bae823032'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8553655

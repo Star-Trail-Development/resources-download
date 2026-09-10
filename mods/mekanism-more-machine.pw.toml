@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'mekmm-1.21.1-1.3.3.jar'
 hash = 'e5c44ba7ea86e2d1b9b8f0fea203fddeecdea524'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7919872

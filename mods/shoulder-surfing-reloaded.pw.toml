@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'ShoulderSurfing-NeoForge-1.21.1-5.0.10'
 hash = 'a4571270a2b25ff14e7c10e286817b25cc35d4c8'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8596423

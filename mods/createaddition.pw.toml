@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'createaddition-neoforge-1.21.1-1.6.0'
 hash = '87b539d41ed238e98b26c607c0c81a973323147e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8188476

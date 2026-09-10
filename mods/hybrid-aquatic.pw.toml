@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '[1.21.1-Neoforge] Hybrid Aquatic 1.6.9'
 hash = 'e0b181001cdd22926c11f190759b7121452eae64'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8594180

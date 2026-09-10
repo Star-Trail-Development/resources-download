@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'modernfix-neoforge-5.27.20+mc1.21.1.jar'
 hash = 'bc1a70e72e7dba8a3ff41404765fdd03a7ac6575'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8459650

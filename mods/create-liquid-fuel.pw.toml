@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '1.21.1 v2.1.1'
 hash = 'a29f65eb4bbded2ca977a1453f90b6570e812b85'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6521990

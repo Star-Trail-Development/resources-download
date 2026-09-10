@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'particular-1.21.1-NeoForge-1.5.5.jar'
 hash = 'ae12a64a5763c701325b8ca5bf6729f645a427e7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8275091

@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'ExtendedAE-Plus 1.5.5 [NeoForge 1.21.1]'
 hash = '7e6aa6ac5cfbcbbfbb43eacdebb9900929352cad'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8379620

@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'chloride-1.8.1-NEOFORGE-1.21.1'
 hash = '50454011525e2862678b15d94484fd32a5a54dfb'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8462029

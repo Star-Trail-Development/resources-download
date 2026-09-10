@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Applied KubeJS v1.0.0'
 hash = '0405e5ff2e3e575f192e944f881222781bfaf747'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7667362

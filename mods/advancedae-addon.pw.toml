@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'AdvancedAE Addon v21.1.0'
 hash = 'e13efd075eed35376e1c494ff0f6adf69dbb27e4'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8381448

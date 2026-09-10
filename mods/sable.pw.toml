@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Sable NeoForge 2.0.3 for mc1.21.1'
 hash = 'f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8263584

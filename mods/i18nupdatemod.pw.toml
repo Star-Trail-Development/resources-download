@@ -72,7 +72,6 @@ x-prismlauncher-version-number = 'I18nUpdateMod 3.7.0'
 hash = 'd9c217b569345ae30a5271baa5e9482080c2e41d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7173159

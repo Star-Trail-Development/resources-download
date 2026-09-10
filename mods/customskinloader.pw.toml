@@ -72,7 +72,6 @@ x-prismlauncher-version-number = 'CustomSkinLoader_Universal_15.0.1'
 hash = 'ab8dd841cafc3b4ecbf0250d3f5aee8a1fdb506a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8291183

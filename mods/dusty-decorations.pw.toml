@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Dusty Decorations 1.21.1Neoforge V1.13'
 hash = '5498e94d078d40172db39c423c84ea84d3cb8884'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7917189

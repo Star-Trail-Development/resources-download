@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'Packet Fixer 3.3.1'
 hash = 'a8bb6e25807682e72c23bf4065f3cd5f6373ece3'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7221528

@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '[NeoForge] Create Stock Bridge 1.21.1-0.2.0'
 hash = 'ff4d5af507ee2275d17dbc1d31b7615ce159c919'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8044769

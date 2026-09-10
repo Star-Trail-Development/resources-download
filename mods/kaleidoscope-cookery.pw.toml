@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'kaleidoscopecookery-1.4.1-neoforge+mc1.21.1.ja
 hash = 'a08a4436ebfebee7b56beb776ea8aada489ee0ab'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8266772

@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'integratedcrafting-1.21.1-neoforge-1.4.7.jar'
 hash = '87282681e33bd4cef1189cfee67ded58d6412612'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8587030

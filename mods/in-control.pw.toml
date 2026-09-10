@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'InControl - 1.21-10.2.7'
 hash = '87d94862cc91bd2d30f720a3ce9fcc03323a9127'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8629614

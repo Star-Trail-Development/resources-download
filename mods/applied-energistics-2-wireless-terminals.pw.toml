@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'ae2wtlib-19.5.1.jar'
 hash = 'b1bee01393b15f1eb0f46d58862ef99234e1d337'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8450398

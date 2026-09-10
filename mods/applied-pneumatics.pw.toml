@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Applied Pneumatics 1.0.8'
 hash = 'e80ccfc7a14f8aa16a61bb37d0aa38d49a0e2f28'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7723695

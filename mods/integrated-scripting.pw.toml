@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'integratedscripting-1.21.1-neoforge-1.0.26.jar
 hash = '574f5e817b393cca2c34eaf0d04780a4d3e131c4'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8641310

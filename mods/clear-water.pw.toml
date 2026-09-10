@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '[NeoForge] Clear Water 3.0.0'
 hash = 'e95c82a455cdb9a3795fd7b17cfff03feb06b4ce'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 5966530

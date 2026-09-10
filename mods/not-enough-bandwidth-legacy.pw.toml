@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'nebl-21.1.11-neoforge+1.21.1.jar'
 hash = 'a6bd91cc4792a47f1098b2cde3c23e80f24d9563'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8632528

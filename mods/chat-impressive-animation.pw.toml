@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'ChatImpressiveAnimation-neoforge-1.6.0+mc1.21.
 hash = 'bad1bb38da6b68c5d418f2b9ef02f4bc96759685'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7949535

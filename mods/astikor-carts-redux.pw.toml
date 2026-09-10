@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'AstikorCarts Redux v1.2.4'
 hash = 'aaede46046d3989a5f58ccf00466e186119f54bd'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8590778

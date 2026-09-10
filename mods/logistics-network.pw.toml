@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'logisticsnetworks-1.21.1-1.11.0.jar'
 hash = 'd6abbdaf44aabb74ab27738d1bbb5e2bcc461f7c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8610900

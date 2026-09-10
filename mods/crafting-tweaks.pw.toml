@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'craftingtweaks-neoforge-1.21.1-21.1.10.jar'
 hash = 'ff4b3d9ca8e8452a7a0362153c3108634ad2297c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8019498

@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar
 hash = 'bf026cb97921749adf6155181d2f9639d37a7261'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8350856

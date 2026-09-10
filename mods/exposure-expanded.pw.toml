@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Exposure: Expanded 1.0.1 (NeoForge)'
 hash = 'a64e3b59d385f472c583cc4ed3e9353538a9290d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6959722

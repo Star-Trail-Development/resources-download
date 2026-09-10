@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '[NeoForge] Handcrafted 4.0.3'
 hash = '8ecd27f1d66f9b742cfae3c8ffa773765f574b52'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6330030

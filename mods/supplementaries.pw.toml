@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'supplementaries-1.21.1-3.8.10-neoforge'
 hash = '0547ca613a6555b16c8c6bcf0c7c829e84f0eb34'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8638261

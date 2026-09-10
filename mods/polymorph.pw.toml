@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'polymorph-neoforge-1.1.0+1.21.1.jar'
 hash = '84f8c539fa326dc723ae62b7a6916d6b01982d07'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6794589
