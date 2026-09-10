@@ -1,6 +1,6 @@
 filename = 'biolith-neoforge-3.0.14.jar'
 name = 'Biolith'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

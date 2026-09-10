@@ -1,6 +1,6 @@
 filename = 'MouseTweaks-neoforge-mc1.21-2.26.1.jar'
 name = 'Mouse Tweaks'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

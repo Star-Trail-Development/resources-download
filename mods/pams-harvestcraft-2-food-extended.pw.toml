@@ -1,6 +1,6 @@
 filename = 'pamhc2foodextended-NEOFORGE-1.21.1-1.0.0.jar'
 name = "Pam's HarvestCraft 2 - Food Extended"
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

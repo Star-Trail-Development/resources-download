@@ -1,6 +1,6 @@
 filename = 'notenoughanimations-neoforge-1.12.4-mc1.21.1.jar'
 name = 'NotEnoughAnimations'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

@@ -1,6 +1,6 @@
 filename = 'BSL_v10.1.3.zip'
 name = 'BSL Shaders'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [

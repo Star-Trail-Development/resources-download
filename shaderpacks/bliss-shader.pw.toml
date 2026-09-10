@@ -1,6 +1,6 @@
 filename = 'Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip'
 name = 'Bliss Shaders'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [

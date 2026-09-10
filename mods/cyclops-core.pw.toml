@@ -1,6 +1,6 @@
 filename = 'cyclopscore-1.21.1-neoforge-1.29.2.jar'
 name = 'Cyclops Core'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

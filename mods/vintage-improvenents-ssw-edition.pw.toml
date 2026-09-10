@@ -1,6 +1,6 @@
 filename = 'vintageimprovements-1.21.1-0.0.0.7.jar'
 name = 'Create: Vintage Improvements'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

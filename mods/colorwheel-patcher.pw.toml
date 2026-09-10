@@ -1,6 +1,6 @@
 filename = 'colorwheel_patcher-neoforge-1.0.5+mc1.21.1.jar'
 name = 'Colorwheel Patcher'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

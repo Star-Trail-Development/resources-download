@@ -1,6 +1,6 @@
 filename = 'beautify-neoforge-1.21.1-2.0.2.jar'
 name = 'Beautify!'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

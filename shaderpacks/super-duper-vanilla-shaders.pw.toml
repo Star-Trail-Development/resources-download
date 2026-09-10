@@ -1,6 +1,6 @@
 filename = 'superDuperVanilla.zip'
 name = 'Super Duper Vanilla Shaders'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [

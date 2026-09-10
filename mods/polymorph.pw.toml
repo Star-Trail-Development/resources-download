@@ -1,6 +1,6 @@
 filename = 'polymorph-neoforge-1.1.0+1.21.1.jar'
 name = 'Polymorph (Fabric/Forge/Quilt)'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

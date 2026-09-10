@@ -1,6 +1,6 @@
 filename = 'ComplementaryReimagined_r5.8.1.zip'
 name = 'Complementary Shaders - Reimagined'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [

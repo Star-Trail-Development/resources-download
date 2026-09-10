@@ -1,6 +1,6 @@
 filename = 'portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar'
 name = 'Create Aeronautics: Portable Engine Liquid Fuel'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

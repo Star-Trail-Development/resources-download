@@ -1,6 +1,6 @@
 filename = 'astikorcartsredux-1.2.4.jar'
 name = 'AstikorCarts Redux'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

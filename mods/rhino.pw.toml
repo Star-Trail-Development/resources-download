@@ -1,6 +1,6 @@
 filename = 'rhino-2101.2.8-build.91.jar'
 name = 'Rhino'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1', '1.21.2', '1.21.3', '1.21.4', '26.1.2' ]

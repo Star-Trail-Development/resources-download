@@ -1,6 +1,6 @@
 filename = 'forgified-fabric-api-0.116.15+2.3.2+1.21.1.jar'
 name = 'Forgified Fabric API'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

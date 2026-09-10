@@ -1,6 +1,6 @@
 filename = 'mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar'
 name = "Macaw's Windows"
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

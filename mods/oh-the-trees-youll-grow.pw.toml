@@ -1,6 +1,6 @@
 filename = 'Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar'
 name = "Oh The Trees You'll Grow"
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

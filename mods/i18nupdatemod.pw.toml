@@ -1,6 +1,6 @@
 filename = 'I18nUpdateMod-3.7.0-all.jar'
 name = 'I18nUpdateMod'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [

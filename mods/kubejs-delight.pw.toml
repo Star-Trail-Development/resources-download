@@ -1,6 +1,6 @@
 filename = 'kubejsdelight-1.1.6.jar'
 name = 'KubeJSDelight'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

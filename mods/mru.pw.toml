@@ -1,6 +1,6 @@
 filename = 'mru-1.0.33+1.21.1-neoforge.jar'
 name = 'MRU'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

@@ -1,6 +1,6 @@
 filename = 'CreateLazyTick-2.5.21-6.0.10-neoforge-1.21.1.jar'
 name = 'Create:Lazy Tick'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

@@ -1,6 +1,6 @@
 filename = 'JustEnoughResources-NeoForge-1.21.1-1.6.0.17.jar'
 name = 'Just Enough Resources (JER)'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

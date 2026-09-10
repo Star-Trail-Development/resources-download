@@ -1,6 +1,6 @@
 filename = 'createliquidfuel-2.1.1-1.21.1.jar'
 name = 'Create: Liquid Fuel'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

@@ -1,6 +1,6 @@
 filename = 'CustomSkinLoader_Universal-15.0.1.jar'
 name = 'CustomSkinLoader'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [

@@ -1,6 +1,6 @@
 filename = 'photon_v1.3b.zip'
 name = 'Photon Shader'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [

@@ -1,6 +1,6 @@
 filename = 'mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar'
 name = "Macaw's Stairs"
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

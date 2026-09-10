@@ -1,6 +1,6 @@
 filename = 'lithium-neoforge-0.15.4+mc1.21.1.jar'
 name = 'Lithium (Fabric/NeoForge)'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

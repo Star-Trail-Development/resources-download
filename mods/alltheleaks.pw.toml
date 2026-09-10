@@ -1,6 +1,6 @@
 filename = 'alltheleaks-1.1.11+1.21.1-neoforge.jar'
 name = 'All The Leaks'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

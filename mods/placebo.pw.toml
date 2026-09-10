@@ -1,6 +1,6 @@
 filename = 'Placebo-1.21.1-9.9.2.jar'
 name = 'Placebo'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

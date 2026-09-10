@@ -1,6 +1,6 @@
 filename = 'BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar'
 name = 'Better Advancements'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

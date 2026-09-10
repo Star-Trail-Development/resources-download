@@ -1,6 +1,6 @@
 filename = 'PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar'
 name = 'Puzzles Lib'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

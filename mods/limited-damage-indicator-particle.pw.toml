@@ -1,6 +1,6 @@
 filename = 'ldip-1.0.jar'
 name = 'Limited Damage Indicator Particle[Neo/Forge]'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

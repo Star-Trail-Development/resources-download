@@ -1,6 +1,6 @@
 filename = 'titanium-1.21-4.0.45.jar'
 name = 'Titanium'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

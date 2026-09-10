@@ -1,6 +1,6 @@
 filename = 'worldedit-mod-7.3.8.jar'
 name = 'WorldEdit'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

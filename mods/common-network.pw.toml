@@ -1,6 +1,6 @@
 filename = 'common-networking-neoforge-1.0.21-1.21.1.jar'
 name = 'Common Network'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

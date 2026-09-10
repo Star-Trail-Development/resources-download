@@ -1,6 +1,6 @@
 filename = 'mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar'
 name = "Macaw's Fences and Walls"
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

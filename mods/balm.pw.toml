@@ -1,6 +1,6 @@
 filename = 'balm-neoforge-1.21.1-21.0.65.jar'
 name = 'Balm'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

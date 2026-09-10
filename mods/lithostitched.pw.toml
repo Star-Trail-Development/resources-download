@@ -1,6 +1,6 @@
 filename = 'lithostitched-1.7.13-neoforge-21.1.jar'
 name = 'Lithostitched'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

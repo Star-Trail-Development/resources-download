@@ -1,6 +1,6 @@
 filename = 'TreeChop-1.21.1-neoforge-0.19.3.jar'
 name = "HT's TreeChop"
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

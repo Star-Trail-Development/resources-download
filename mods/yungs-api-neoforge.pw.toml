@@ -1,6 +1,6 @@
 filename = 'YungsApi-1.21.1-NeoForge-5.1.6.jar'
 name = "YUNG's API (NeoForge)"
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]

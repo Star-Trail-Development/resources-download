@@ -1,6 +1,6 @@
 filename = 'sodium-neoforge-0.8.13-beta.2+mc1.21.1.jar'
 name = 'Sodium'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
