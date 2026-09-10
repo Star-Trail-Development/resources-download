@@ -1,0 +1,29 @@
+filename = 'exposure_expanded-neoforge-1.0.1.jar'
+name = 'Exposure: Expanded'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Exposure: Expanded 1.0.1 (NeoForge)'
+
+[download]
+hash = 'a64e3b59d385f472c583cc4ed3e9353538a9290d'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6959722
+project-id = 1266524
+
+[[x-prismlauncher-dependencies]]
+addonId = '1207005'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '419699'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '871755'
+type = 'REQUIRED'

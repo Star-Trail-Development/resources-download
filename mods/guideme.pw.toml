@@ -1,0 +1,18 @@
+filename = 'guideme-21.1.17.jar'
+name = 'GuideME'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'GuideME 21.1.17'
+
+[download]
+hash = '060e374f578db694a0b8f3ad409bd424cae86359'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8420861
+project-id = 1173950

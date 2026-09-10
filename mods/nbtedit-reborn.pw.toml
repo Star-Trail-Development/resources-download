@@ -1,0 +1,18 @@
+filename = 'nbtedit-neoforge-5.2.11.jar'
+name = 'In-game NBTEdit Reborn'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'NBTEdit NeoForge 1.21.1-5.2.11'
+
+[download]
+hash = '5bc1295d210ec0a58e0afe9171b457f8647463c1'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6125444
+project-id = 678133

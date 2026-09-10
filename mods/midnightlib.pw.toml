@@ -1,0 +1,18 @@
+filename = 'midnightlib-neoforge-1.9.3+1.21.1.jar'
+name = 'MidnightLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'MidnightLib 1.9.3 - Neoforge 1.21.1'
+
+[download]
+hash = 'e0c9a1ffc6a53435029a23d9c110c44620595469'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8028802
+project-id = 488090

@@ -1,0 +1,18 @@
+filename = 'selfexpression-2.22a-neoforge-1.21.1.jar'
+name = 'Selfexpression'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'selfexpression-2.22a-neoforge-1.21.1.jar'
+
+[download]
+hash = 'f0dd7e65512daec9ddea0fa54f02c48b4f2d3842'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6910114
+project-id = 921259

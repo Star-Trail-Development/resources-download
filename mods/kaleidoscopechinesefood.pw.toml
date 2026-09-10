@@ -1,6 +1,6 @@
 filename = 'kaleidoscope_chinesefood-1.1.8-neoforge+1.21.1-fix.jar'
 name = 'Kaleidoscope ChineseFood'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

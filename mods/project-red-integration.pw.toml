@@ -1,0 +1,29 @@
+filename = 'ProjectRed-1.21.1-4.23.0-beta+8-integration.jar'
+name = 'ProjectRed Integration'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'ProjectRed-1.21.1-4.23.0-beta+8-integration.jar'
+
+[download]
+hash = '123aab43f96738dcfda562c3f910d897008d150a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8438008
+project-id = 229045
+
+[[x-prismlauncher-dependencies]]
+addonId = '258426'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '228702'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '242818'
+type = 'REQUIRED'

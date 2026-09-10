@@ -1,6 +1,6 @@
 filename = 'kaleidoscope_grilling-1.0.1-neoforge1.21.1.jar'
 name = 'Kaleidoscope Grilling'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

@@ -1,0 +1,33 @@
+filename = 'moredelight-26.05.20a-1.21-neoforge.jar'
+name = 'More Delight'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'More Delight 26.05.20a - 1.21+'
+
+[download]
+hash = '53ba48fc2dc3d96f0bc24cc0f85586ff8d740942'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8123964
+project-id = 977515
+
+[[x-prismlauncher-dependencies]]
+addonId = '1531135'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '979761'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '958291'
+type = 'OPTIONAL'

@@ -1,0 +1,18 @@
+filename = 'cyclopscore-1.21.1-neoforge-1.29.2.jar'
+name = 'Cyclops Core'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'cyclopscore-1.21.1-neoforge-1.29.2.jar'
+
+[download]
+hash = '950e5ffb1d01fcca26afb698d37aa46e1e894fa9'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8527422
+project-id = 232758

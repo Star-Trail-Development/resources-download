@@ -1,0 +1,25 @@
+filename = 'advancedae_addon-21.1.0.jar'
+name = 'AdvancedAE Addon'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'AdvancedAE Addon v21.1.0'
+
+[download]
+hash = 'e13efd075eed35376e1c494ff0f6adf69dbb27e4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8381448
+project-id = 1600208
+
+[[x-prismlauncher-dependencies]]
+addonId = '1084104'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'

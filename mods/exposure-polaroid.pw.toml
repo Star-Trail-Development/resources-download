@@ -1,0 +1,21 @@
+filename = 'exposure_polaroid-neoforge-1.21.1-1.1.6.jar'
+name = 'Exposure: Polaroid'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Exposure Polaroid - NeoForge 1.21.1 - 1.1.6'
+
+[download]
+hash = '141ea133aff47e1655bd4a4937688bede22ebe58'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8533496
+project-id = 1207005
+
+[[x-prismlauncher-dependencies]]
+addonId = '871755'
+type = 'REQUIRED'

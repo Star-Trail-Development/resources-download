@@ -1,0 +1,18 @@
+filename = 'wilderflowers-1.1.0+1.21.1-neoforge.jar'
+name = 'Wilder Flowers'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'Wilder Flowers 1.1.0 for 1.21.1 NeoForge'
+
+[download]
+hash = '1dc2a64f6f96a9ab8a7e8bbb0eac0c450eaed83a'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7534251
+project-id = 1390211

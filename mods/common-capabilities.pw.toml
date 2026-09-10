@@ -1,0 +1,21 @@
+filename = 'commoncapabilities-1.21.1-neoforge-2.11.5-363.jar'
+name = 'CommonCapabilities'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'commoncapabilities-1.21.1-neoforge-2.11.5-363.jar'
+
+[download]
+hash = 'fc230d636bf91fda3b3fc4697794677323bfa5b7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8469575
+project-id = 247007
+
+[[x-prismlauncher-dependencies]]
+addonId = '232758'
+type = 'REQUIRED'

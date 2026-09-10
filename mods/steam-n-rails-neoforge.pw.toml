@@ -1,0 +1,21 @@
+filename = 'railways-0.3.0-beta.2+neoforge-mc1.21.1.jar'
+name = "Steam 'n' Rails Neoforge"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'railways-0.3.0-beta.2+neoforge-mc1.21.1.jar'
+
+[download]
+hash = '82a28ce51fdbc583477d7ae7c4c94cc6d23ec2b4'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8522154
+project-id = 1414670
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

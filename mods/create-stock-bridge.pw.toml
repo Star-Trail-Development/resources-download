@@ -1,0 +1,25 @@
+filename = 'createstockbridge-1.21.1-0.2.0.jar'
+name = 'Create Stock Bridge'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge] Create Stock Bridge 1.21.1-0.2.0'
+
+[download]
+hash = 'ff4d5af507ee2275d17dbc1d31b7615ce159c919'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8044769
+project-id = 1256341
+
+[[x-prismlauncher-dependencies]]
+addonId = '223794'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
+type = 'REQUIRED'

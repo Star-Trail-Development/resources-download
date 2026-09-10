@@ -1,0 +1,53 @@
+filename = 'integratedmekanism-1.21.1-neoforge-1.0.4-110.jar'
+name = 'IntegratedMekanism'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'integratedmekanism-1.21.1-neoforge-1.0.4-110.jar'
+
+[download]
+hash = '6f75589c50ada2929593973e5c7c0f718b843225'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8512874
+project-id = 1332544
+
+[[x-prismlauncher-dependencies]]
+addonId = '889785'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '295910'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '232758'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '236307'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '287357'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '251389'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '284332'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268566'
+type = 'REQUIRED'

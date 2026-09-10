@@ -1,0 +1,25 @@
+filename = 'tipsmod-neoforge-1.21.1-21.1.3.jar'
+name = 'Tips'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'tipsmod-neoforge-1.21.1-21.1.3.jar'
+
+[download]
+hash = '34db760aa9a1a8cec512e32b93e51525dbcb3597'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7126358
+project-id = 306549
+
+[[x-prismlauncher-dependencies]]
+addonId = '1023259'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '228525'
+type = 'REQUIRED'

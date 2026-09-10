@@ -1,0 +1,25 @@
+filename = 'ProjectRed-1.21.1-4.23.0-beta+8-core.jar'
+name = 'ProjectRed Core'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = 'ProjectRed-1.21.1-4.23.0-beta+8-core.jar'
+
+[download]
+hash = 'eb8e62b7a3065c0a90a64d3804e1f2d48c2cd64f'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8438003
+project-id = 228702
+
+[[x-prismlauncher-dependencies]]
+addonId = '258426'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '242818'
+type = 'REQUIRED'

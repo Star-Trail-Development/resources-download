@@ -1,0 +1,25 @@
+filename = 'Lychee-1.21.1-NeoForge-6.5.3.jar'
+name = 'Lychee Tweaker'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '[NeoForge 1.21.1] 6.5.3'
+
+[download]
+hash = 'c053488319689def80a6803586c2f7a7d82a44d8'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8487293
+project-id = 567403
+
+[[x-prismlauncher-dependencies]]
+addonId = '303657'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '348521'
+type = 'OPTIONAL'

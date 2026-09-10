@@ -1,0 +1,41 @@
+filename = 'Icarus-NeoForge-4.7.8.jar'
+name = 'Icarus'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '4.7.8+NeoForge'
+
+[download]
+hash = '73a3c88e303644ee50edf64971bb86aec1b96353'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8617814
+project-id = 428151
+
+[[x-prismlauncher-dependencies]]
+addonId = '309927'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '901503'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '911456'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '714059'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '308989'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '806044'
+type = 'REQUIRED'

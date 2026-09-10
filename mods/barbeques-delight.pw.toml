@@ -1,0 +1,25 @@
+filename = 'barbequesdelight-1.3.0.jar'
+name = "Barbeque's Delight [Forge/NeoForge]"
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'barbequesdelight-1.3.0.jar'
+
+[download]
+hash = 'b69ee6fdd97d0d01eb0a6e9996912457226da909'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8004721
+project-id = 1007788
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '324717'
+type = 'OPTIONAL'

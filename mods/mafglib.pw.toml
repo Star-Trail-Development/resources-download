@@ -1,0 +1,18 @@
+filename = 'mafglib-0.4.3+mc1.21.1.jar'
+name = 'MaFgLib'
+side = ''
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.4.3+mc1.21.1'
+
+[download]
+hash = '9f62df832b1d5c9fe1aead873bd65cb8defacac7'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7493644
+project-id = 910766

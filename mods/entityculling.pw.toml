@@ -1,6 +1,6 @@
 filename = 'entityculling-neoforge-1.10.5-mc1.21.1.jar'
 name = 'EntityCulling'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]

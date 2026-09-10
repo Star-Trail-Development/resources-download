@@ -1,0 +1,18 @@
+filename = 'selfexpression_slim-1.5-neoforge-1.21.1.jar'
+name = 'Selfexpression: Slim'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'selfexpression_slim-1.5-neoforge-1.21.1.jar'
+
+[download]
+hash = 'ee1f4de5e66902cc13f75903d906fc0a41d2f93e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 6115515
+project-id = 1128335

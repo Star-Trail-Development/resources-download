@@ -1,0 +1,33 @@
+filename = 'kubejs_kaleidoscope-1.1.0-mc1.21.1-neoforge.jar'
+name = 'KubeJS Kaleidoscope'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'kubejs_kaleidoscope-1.1.0-mc1.21.1-neoforge.jar'
+
+[download]
+hash = '157f3f32587156151fe3bae759265dd0df9aa131'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8524688
+project-id = 1524135
+
+[[x-prismlauncher-dependencies]]
+addonId = '1309203'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1475175'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1479951'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '238086'
+type = 'REQUIRED'

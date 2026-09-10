@@ -1,0 +1,81 @@
+filename = 'displaydelight-1.7.0.jar'
+name = 'Display Delight'
+side = 'server'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'displaydelight-1.7.0.jar'
+
+[download]
+hash = '0d2040a348a1d42907561babff9ac983c466b825'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 8242893
+project-id = 1144296
+
+[[x-prismlauncher-dependencies]]
+addonId = '961988'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '892827'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '841262'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '827163'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '687974'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '1003673'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '625110'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '556448'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '577805'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '637808'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '574622'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '398521'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '620770'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '496394'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '662675'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '637529'
+type = 'OPTIONAL'

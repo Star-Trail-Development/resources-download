@@ -1,0 +1,18 @@
+filename = 'beautify-neoforge-1.21.1-2.0.2.jar'
+name = 'Beautify!'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'Beautify 1.21-V.2.0.2 [NeoForge]'
+
+[download]
+hash = '936dc981f243c4606376ba7d6f03798e0b5a6871'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 5947973
+project-id = 633252

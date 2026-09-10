@@ -1,0 +1,25 @@
+filename = 'InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar'
+name = 'Inventory Profiles Next'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'InventoryProfilesNext-neoforge-1.21.1-2.2.5.jar'
+
+[download]
+hash = 'b09d7c0820c233ea34af54d0a3ab7ed510b32dcc'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7810574
+project-id = 495267
+
+[[x-prismlauncher-dependencies]]
+addonId = '351264'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '679177'
+type = 'REQUIRED'
