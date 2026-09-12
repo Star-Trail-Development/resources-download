@@ -1,6 +1,6 @@
 filename = 'create_aeronautics_toolgun-0.3.6.jar'
 name = 'Create Aeronautics: Toolgun'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'create_aeronautics_toolgun-0.3.6.jar'
 hash = '81103160768a52a5bc7fffb5fadc1c441883d5d5'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8701394

@@ -1,6 +1,6 @@
 filename = 'mru-1.0.39+1.21.1-neoforge.jar'
 name = 'MRU'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'MRU 1.0.39 for 1.21.1 NeoForge'
 hash = 'b6fde494727b078bc5f9cadb2a758e43d13fc10f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8853922

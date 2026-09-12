@@ -1,6 +1,6 @@
 filename = 'create-new-age-1.2.0+neoforge-mc1.21.1.jar'
 name = 'Create: New Age'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '1.2.0 for Neoforge 1.21.1'
 hash = '849df57070ffa75c2446b9c460d03f6b49fa089e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8215216

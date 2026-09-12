@@ -1,6 +1,6 @@
 filename = 'I18nAutoUpdateMod-1.0.0-all.jar'
 name = 'I18nAutoUpdateMod'
-side = 'client'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge', 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [

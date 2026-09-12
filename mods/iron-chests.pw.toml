@@ -1,6 +1,6 @@
 filename = 'ironchest-1.21-neoforge-16.0.7.jar'
 name = 'Iron Chests'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'ironchest-1.21-neoforge-16.0.7.jar'
 hash = '7064b4ea349f37d95a6448c3179dc0a2cad0c162'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 5491156

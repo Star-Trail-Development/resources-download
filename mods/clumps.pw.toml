@@ -1,6 +1,6 @@
 filename = 'Clumps-neoforge-1.21.1-19.0.0.1.jar'
 name = 'Clumps'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'Clumps-neoforge-1.21.1-19.0.0.1.jar'
 hash = 'fa2576297c7bd12b28aa7070e8141792bd66da4c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 5623731

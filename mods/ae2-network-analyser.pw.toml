@@ -1,6 +1,6 @@
 filename = 'AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar'
 name = 'AE2 Network Analyser'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'AE2NetworkAnalyzer-1.21-2.1.5-neoforge.jar'
 hash = 'c6cb26a2031687d801bf1763dc0c75cd92f3715c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7622554

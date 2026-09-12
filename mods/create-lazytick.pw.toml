@@ -1,6 +1,6 @@
 filename = 'CreateLazyTick-2.6.25-6.0.10-neoforge-1.21.1.jar'
 name = 'Create:Lazy Tick'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'CLT_v2.6.25_for_Create_v6.0.10'
 hash = '0c95270c36bc112e5dc95c962811d3aa3946ffb5'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8647334

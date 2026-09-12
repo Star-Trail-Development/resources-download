@@ -1,6 +1,6 @@
 filename = 'applied-generators-0.2.5+1.21.1.jar'
 name = 'Applied Generators'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'applied-generators-0.2.5+1.21.1.jar'
 hash = '76a5944eeed988fb5fb9854d365eaf1113b77578'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8388947

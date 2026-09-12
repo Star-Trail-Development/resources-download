@@ -1,6 +1,6 @@
 filename = 'sable-neoforge-1.21.1-2.0.5.jar'
 name = 'Sable'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Sable NeoForge 2.0.5 for mc1.21.1'
 hash = '05f666e973d32baaaf405acb9bbed6615b909971'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8673825

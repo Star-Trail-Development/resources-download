@@ -1,6 +1,6 @@
 filename = 'createbetterfps-1.21.1-1.1.4.jar'
 name = 'Create Better FPS'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'createbetterfps-1.21.1-1.1.4.jar'
 hash = 'c594e20659b73a67bd0b0c2de45b29b78a2eb160'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7951368

@@ -1,6 +1,6 @@
 filename = 'ProjectRed-1.21.1-4.23.0-beta+8-transmission.jar'
 name = 'ProjectRed Transmission'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'ProjectRed-1.21.1-4.23.0-beta+8-transmission.j
 hash = 'a334e74daa15db8f66e5d251a2cb46fea2d87271'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8438009

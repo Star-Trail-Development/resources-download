@@ -1,6 +1,6 @@
 filename = 'CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar'
 name = 'CreativeCore'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar'
 hash = '180613074e3f8df9b1e052a3abe19a1c4ac38b48'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8857710

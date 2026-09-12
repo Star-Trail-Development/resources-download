@@ -1,6 +1,6 @@
 filename = 'monolib-neoforge-1.21.1-4.1.0.jar'
 name = 'MonoLib'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'neoforge-1.21.1-4.1.0'
 hash = '1d67964c61012110d47364140df14a5dfb8eabf3'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8543133

@@ -1,6 +1,6 @@
 filename = 'colorwheel-neoforge-1.3.0-beta3+mc1.21.1.jar'
 name = 'Colorwheel'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '1.3.0-beta3+mc1.21.1-neoforge'
 hash = 'd5a7be61d2262bec535ea365316778f1aef4bfdb'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8845482

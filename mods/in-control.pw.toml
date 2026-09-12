@@ -1,6 +1,6 @@
 filename = 'incontrol-1.21-10.3.0.jar'
 name = 'InControl'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'InControl - 1.21-10.3.0'
 hash = 'eb89f724834b393e9a76c404df642d930e50eb19'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8790499

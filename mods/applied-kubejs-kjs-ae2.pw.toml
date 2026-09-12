@@ -1,6 +1,6 @@
 filename = 'applied_kjs-1.0.0.jar'
 name = 'Applied KubeJS'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Applied KubeJS v1.0.0'
 hash = '0405e5ff2e3e575f192e944f881222781bfaf747'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7667362

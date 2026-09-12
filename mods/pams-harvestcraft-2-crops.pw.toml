@@ -1,6 +1,6 @@
 filename = 'pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar'
 name = "Pam's HarvestCraft - Crops"
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'pamhc2crops-NEOFORGE-1.21.1-1.0.9.jar'
 hash = '2a735b24c61a0007fe98de6cc2dc5d5fff4915a2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8064883

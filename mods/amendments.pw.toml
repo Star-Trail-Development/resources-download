@@ -1,6 +1,6 @@
 filename = 'amendments-1.21-2.1.10-neoforge.jar'
 name = 'Amendments'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'amendments-1.21-2.1.10-neoforge'
 hash = 'd0cae2882177b7ad285021b48c128ddcc7022464'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8825641

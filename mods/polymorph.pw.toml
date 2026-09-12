@@ -1,6 +1,6 @@
 filename = 'polymorph-neoforge-1.2.0+1.21.1.jar'
 name = 'Polymorph (Fabric/Forge/Quilt)'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'polymorph-neoforge-1.2.0+1.21.1.jar'
 hash = 'fa6c5fa8a21229c85d564b47c73df7160b3bd4df'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8849478

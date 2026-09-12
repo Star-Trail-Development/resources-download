@@ -1,6 +1,6 @@
 filename = 'commoncapabilities-1.21.1-neoforge-2.11.5-373.jar'
 name = 'CommonCapabilities'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'commoncapabilities-1.21.1-neoforge-2.11.5-373.
 hash = '5168e554defd7ee6a8ed0cd9651af6b32adb4c3d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8839123

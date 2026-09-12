@@ -1,6 +1,6 @@
 filename = 'pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar'
 name = "Pam's HarvestCraft 2 - Food Core"
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'pamhc2foodcore-NEOFORGE-1.21.1-1.0.4.jar'
 hash = 'dc2b5671914879d4731034668028f4d8cbcd775c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6919485

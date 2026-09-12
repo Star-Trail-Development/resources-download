@@ -1,6 +1,6 @@
 filename = 'CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar'
 name = 'CustomNPCs-Unofficial'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'CustomNPCs-Unofficial-NeoForge-1.21.1.20251230
 hash = 'e2f3b58ceb5aac4021d7bfd130e320925581471b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7411561

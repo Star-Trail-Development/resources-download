@@ -1,6 +1,6 @@
 filename = 'ldip-1.0.jar'
 name = 'Limited Damage Indicator Particle[Neo/Forge]'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'ldip-1.0.jar'
 hash = '8896446c3345331b8b3174ec0c4e3ea437a3255b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 5725077

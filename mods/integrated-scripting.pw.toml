@@ -1,6 +1,6 @@
 filename = 'integratedscripting-1.21.1-neoforge-1.0.27.jar'
 name = 'IntegratedScripting'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'integratedscripting-1.21.1-neoforge-1.0.27.jar
 hash = 'de18d01b3bb059e7a09b1c12b0c5d7540aa509a2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8813526

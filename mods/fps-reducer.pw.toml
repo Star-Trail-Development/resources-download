@@ -1,6 +1,6 @@
 filename = 'FpsReducer2-neoforge-1.21-2.10.jar'
 name = 'FPS Reducer'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'FpsReducer2-neoforge-1.21-2.10.jar'
 hash = 'edb3e8d90992aae937c79827282f854f4cc5939c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 5561051

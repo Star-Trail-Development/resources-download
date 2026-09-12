@@ -1,6 +1,6 @@
 filename = 'logisticsnetworks-1.21.1-1.15.0.jar'
 name = 'LogisticsNetworks'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'LogisticsNetworks - 1.21.1-1.15.0'
 hash = '5783d50acf1aca3ebd98ae3183122aa32011c65e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8832420

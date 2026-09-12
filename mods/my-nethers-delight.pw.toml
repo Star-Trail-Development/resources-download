@@ -1,6 +1,6 @@
 filename = 'MyNethersDelight-1.21.1-1.10.4.1.jar'
 name = "My Nether's Delight"
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'MyNethersDelight-1.21.1-1.10.4.1.jar'
 hash = '9c54439d65e77c7b4b711831138f81f3a849ff35'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8854319

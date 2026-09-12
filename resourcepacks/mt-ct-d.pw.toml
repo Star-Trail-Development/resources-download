@@ -1,6 +1,6 @@
 filename = 'Midnighttiggers-FCT-Default_1.20_V8.zip'
 name = "Midnighttigger's Default Connected Textures"
-side = ''
+side = 'both'
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
     '1.20',
@@ -30,7 +30,6 @@ x-prismlauncher-version-number = 'Midnighttiggers-FCT-Default_1.20_V8.zip'
 hash = 'f096b7d72d450e82d3f300a312d92b47284d8f6b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6913011

@@ -1,6 +1,6 @@
 filename = 'particular-1.21.1-NeoForge-1.5.7.jar'
 name = 'Particular Reforged'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'particular-1.21.1-NeoForge-1.5.7.jar'
 hash = 'd6d33e8233481ad8fc6f8c351f52783ed431a800'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8662697

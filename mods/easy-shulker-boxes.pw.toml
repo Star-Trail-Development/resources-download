@@ -1,6 +1,6 @@
 filename = 'EasyShulkerBoxes-v21.1.3-1.21.1-NeoForge.jar'
 name = 'Easy Shulker Boxes'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = '[NEOFORGE] [1.21.1] EasyShulkerBoxes-v21.1.3'
 hash = '9491302950e20bec758f67f13ff21663ecf40986'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 6697879

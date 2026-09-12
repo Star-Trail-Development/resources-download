@@ -1,6 +1,6 @@
 filename = 'createliquidfuel-3.0.0-1.21.1.jar'
 name = 'Create: Liquid Fuel'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = '1.21.1 v3.0.0'
 hash = '9a88888ac915d32d8df240153421fdcb170ad88e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8812977

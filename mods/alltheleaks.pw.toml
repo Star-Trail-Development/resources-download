@@ -1,6 +1,6 @@
 filename = 'alltheleaks-1.1.12+1.21.1-neoforge.jar'
 name = 'All The Leaks'
-side = 'server'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'alltheleaks-1.1.12+1.21.1-neoforge.jar'
 hash = 'd69b9e98e957418ca0ab768b79983e68ffbfcd49'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8648639

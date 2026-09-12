@@ -1,6 +1,6 @@
 filename = 'naturalist-2.0.3-neoforge-1.21.1.jar'
 name = 'Naturalist'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Naturalist 2.0.3 (NeoForge 1.21.1)'
 hash = 'addb9794fe723d094ddc622b1234944727a542fa'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8663845

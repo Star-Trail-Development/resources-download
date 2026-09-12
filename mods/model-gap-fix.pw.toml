@@ -1,6 +1,6 @@
 filename = 'modelfix-1.21-1.10.jar'
 name = 'Model Gap Fix'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'modelfix-1.21-1.10.jar'
 hash = '9608b1bff92e075ad8c2feb07f7ef095f6887117'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 5591286

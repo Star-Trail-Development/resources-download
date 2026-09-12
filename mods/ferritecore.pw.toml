@@ -1,6 +1,6 @@
 filename = 'ferritecore-7.0.3-neoforge.jar'
 name = 'FerriteCore ((Neo)Forge)'
-side = ''
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,7 +11,6 @@ x-prismlauncher-version-number = 'ferritecore-7.0.3-neoforge'
 hash = '9563692efb708b6b568df27a01ec52f6311928ef'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 7524151

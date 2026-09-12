@@ -1,6 +1,6 @@
 filename = 'KeyBindJS-2101-1.1.0.jar'
 name = 'KeyBindJS'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'KeyBindJS-2101-1.1.0.jar'
 hash = '044f8fb24eccae89fb8a7647817ca02d372ad2b6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8732154

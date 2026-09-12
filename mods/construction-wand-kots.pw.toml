@@ -1,6 +1,6 @@
 filename = 'constructionwand-kots-1.21.1-2.16.12.jar'
 name = 'Construction Wand KOTS'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'constructionwand-kots-1.21.1-2.16.12.jar'
 hash = '25a0c436f6dd081987c9c24deb63644899c3c0d9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8606447

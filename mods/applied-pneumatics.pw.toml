@@ -1,6 +1,6 @@
 filename = 'appliedpneumatics-1.21.1-neoforge-1.0.9.jar'
 name = 'Applied Pneumatics'
-side = 'server'
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,7 +10,6 @@ x-prismlauncher-version-number = 'Applied Pneumatics 1.0.9 for 1.21.1 neoforge'
 hash = '44e46bc3aac260d594837d4d0fc13ac35d9ca558'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
-url = ''
 
 [update.curseforge]
 file-id = 8812885
