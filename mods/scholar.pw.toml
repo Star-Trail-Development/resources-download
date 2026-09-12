@@ -1,6 +1,6 @@
 filename = 'scholar-neoforge-1.21.1-1.2.5.jar'
 name = 'Scholar'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'Scholar - NeoForge 1.21.1 - 1.2.5'
 hash = '4e0e2e77444742675841371a9943ac1746b4962c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8602869

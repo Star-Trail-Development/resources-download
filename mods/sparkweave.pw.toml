@@ -1,6 +1,6 @@
 filename = 'Sparkweave-NeoForge-0.510.0.jar'
 name = 'Sparkweave Engine'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = '0.510.0+NeoForge'
 hash = '012d4308400c2c467374c5b36b86bb0c55582496'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 6774230

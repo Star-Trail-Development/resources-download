@@ -1,6 +1,6 @@
 filename = 'libIPN-neoforge-1.21.1-6.6.3.jar'
 name = 'libIPN'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'libIPN-neoforge-1.21.1-6.6.3.jar'
 hash = 'baab9e8cae3d2b77b5e172b5694e465ee9f30d4a'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7810552

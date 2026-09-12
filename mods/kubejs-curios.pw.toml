@@ -1,6 +1,6 @@
 filename = 'kubejs_curios_neoforge_1.21.1-1.0.4.jar'
 name = 'KubeJS Curios'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'kubejs_curios_neoforge_1.21.1-1.0.4.jar'
 hash = 'd76c4181e1436bc85f108c7191f1ed7ee374d318'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 6825089

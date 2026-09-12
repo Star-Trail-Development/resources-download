@@ -1,6 +1,6 @@
 filename = 'lithium-neoforge-0.15.4+mc1.21.1.jar'
 name = 'Lithium (Fabric/NeoForge)'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'Lithium mc1.21.1-0.15.4 for Neoforge'
 hash = '97212e45c963730bbfc7c44780df99317814c21b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8330365

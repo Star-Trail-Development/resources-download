@@ -1,6 +1,6 @@
 filename = 'Paxi-1.21.1-NeoForge-5.1.3.jar'
 name = 'Paxi (NeoForge)'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = '[1.21.1] Paxi v5.1.3 (NeoForge)'
 hash = '7140974a26a2cd79cdc7b85ab4e834916eacc7f1'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 6485740

@@ -1,6 +1,6 @@
 filename = 'storage-drawers-create-compat-1.0.1.jar'
 name = 'Create: Storage Drawers compat'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
 x-prismlauncher-mc-versions = [ '1.20.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -17,9 +17,9 @@ mod-id = 'c8JYP4m3'
 version = 'akK0oNH8'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'guitPqEi'
+addonId = 'LNytGWDc'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = 'LNytGWDc'
+addonId = 'guitPqEi'
 type = 'REQUIRED'

@@ -1,6 +1,6 @@
 filename = 'aeroadditionbridge-1.0.0.jar'
 name = 'Create: Crafts & Additions and Aeronautics Compat'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -17,10 +17,10 @@ mod-id = 'tum2vG0T'
 version = 'zibO5DQH'
 
 [[x-prismlauncher-dependencies]]
+addonId = 'oWaK0Q19'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
 addonId = 'kU1G12Nn'
 type = 'REQUIRED'
 version = 'CP8Lhuwu'
-
-[[x-prismlauncher-dependencies]]
-addonId = 'oWaK0Q19'
-type = 'REQUIRED'

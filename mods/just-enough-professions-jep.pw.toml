@@ -1,6 +1,6 @@
 filename = 'JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar'
 name = 'Just Enough Professions (JEP)'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'JustEnoughProfessions-neoforge-1.21.1-4.0.5.ja
 hash = '439ea1baa5e3065e36e0e57422f22403918bb59f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7966681

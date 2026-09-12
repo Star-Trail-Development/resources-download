@@ -1,6 +1,6 @@
 filename = 'Glodium-1.21-2.2-neoforge.jar'
 name = 'Glodium'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'Glodium-1.21-2.2-neoforge.jar'
 hash = '9f61a3162665ad0b37f6f268339ac98097af1a87'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 5821676

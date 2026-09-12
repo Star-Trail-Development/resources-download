@@ -1,6 +1,6 @@
 filename = 'ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar'
 name = 'Immersive UI'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'ImmersiveUI-NEOFORGE-0.3.3+1.21.1.jar'
 hash = '5e9dda03c6142400b95dc3114675e07c943d554d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 6886575

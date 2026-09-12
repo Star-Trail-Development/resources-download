@@ -1,6 +1,6 @@
 filename = 'mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar'
 name = "Macaw's Stairs"
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'v1.0.2 / mc1.21.1 - NeoForge'
 hash = '1ee43d693c821efc955a74e551f94372af90a140'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7317479

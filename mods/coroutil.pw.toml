@@ -1,6 +1,6 @@
 filename = 'coroutil-neoforge-1.21.0-1.3.9.jar'
 name = 'CoroUtil'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'coroutil-neoforge-1.21.0-1.3.9.jar'
 hash = '0f5a6309ce8394721b97740e6f3e45665f13b8de'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7796187

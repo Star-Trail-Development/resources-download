@@ -1,6 +1,6 @@
 filename = 'pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar'
 name = "Pam's HarvestCraft 2 - Trees"
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'pamhc2trees-NEOFORGE-1.21.1-1.0.9.jar'
 hash = '85d54e1d4d32f669d3f183945dc813360263ca91'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7847533

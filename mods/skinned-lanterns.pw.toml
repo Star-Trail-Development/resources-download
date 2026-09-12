@@ -1,6 +1,6 @@
 filename = 'skinned_lanterns-1.21.1-1.4.0-neoforge.jar'
 name = 'Skinned Lanterns (Forge / NeoForge)'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'skinned_lanterns-1.21.1-1.4.0-neoforge.jar'
 hash = '2744800987a6e0dd50eec9ef2d2c4b69a3a81bd7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 6821878

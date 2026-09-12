@@ -1,6 +1,6 @@
 filename = 'do_a_barrel_roll-neoforge-3.7.3+1.21.jar'
 name = 'Do a Barrel Roll'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = '3.7.3 for Neoforge 1.21'
 hash = '6a3cc7dc17fb701087a9705b06d75d9bb5f09065'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 6189476

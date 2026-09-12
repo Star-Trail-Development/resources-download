@@ -1,6 +1,6 @@
 filename = 'mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar'
 name = "Macaw's Windows"
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'v2.4.2 / mc1.21.1 - NeoForge'
 hash = 'eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7317672

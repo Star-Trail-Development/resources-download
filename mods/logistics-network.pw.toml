@@ -1,22 +1,23 @@
-filename = 'logisticsnetworks-1.21.1-1.11.0.jar'
+filename = 'logisticsnetworks-1.21.1-1.15.0.jar'
 name = 'LogisticsNetworks'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'logisticsnetworks-1.21.1-1.11.0.jar'
+x-prismlauncher-version-number = 'LogisticsNetworks - 1.21.1-1.15.0'
 
 [download]
-hash = 'd6abbdaf44aabb74ab27738d1bbb5e2bcc461f7c'
+hash = '5783d50acf1aca3ebd98ae3183122aa32011c65e'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
-file-id = 8610900
+file-id = 8832420
 project-id = 1448257
 
 [[x-prismlauncher-dependencies]]
-addonId = '268560'
+addonId = '238222'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
@@ -24,21 +25,13 @@ addonId = '1173950'
 type = 'OPTIONAL'
 
 [[x-prismlauncher-dependencies]]
-addonId = '238222'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '223794'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '404468'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
-addonId = '401955'
-type = 'OPTIONAL'
-
-[[x-prismlauncher-dependencies]]
 addonId = '324717'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '268560'
+type = 'OPTIONAL'
+
+[[x-prismlauncher-dependencies]]
+addonId = '328085'
 type = 'OPTIONAL'

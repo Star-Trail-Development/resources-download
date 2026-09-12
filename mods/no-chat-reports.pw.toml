@@ -1,6 +1,6 @@
 filename = 'NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar'
 name = 'No Chat Reports'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar'
 hash = '9edfc7861277ff661141304dc8216f83eacdd9af'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 5885735

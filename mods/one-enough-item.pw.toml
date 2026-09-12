@@ -1,6 +1,6 @@
 filename = 'oneenoughitem-neoforge-1.21.1-1.0.8.jar'
 name = 'One Enough Item'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'oneenoughitem-neoforge-1.21.1-1.0.8.jar'
 hash = 'c1acb64060602f5a9c7397224832d1ef75f9146b'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7939114

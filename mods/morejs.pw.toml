@@ -1,6 +1,6 @@
 filename = 'morejs-neoforge-1.21.1-0.16.0.jar'
 name = 'MoreJS'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'MoreJS-NeoForge-1.21.1-0.16.0'
 hash = '7e8aea4f03b18076cab5555f6d30e35ff919b342'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7103440

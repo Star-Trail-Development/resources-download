@@ -1,6 +1,6 @@
 filename = 'ultramarine-1.21.1-0.7.jar'
 name = 'Ultramarine'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'Ultramarine-1.21.1-0.7'
 hash = 'dc134240c56a9fa6a0ab8db9c0e92d859d03b876'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7904120

@@ -1,6 +1,6 @@
 filename = 'portable_engine_liquid_fuel-2.0.0-neoforge-1.21.1.jar'
 name = 'Create Aeronautics: Portable Engine Liquid Fuel'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'portable_engine_liquid_fuel-2.0.0-neoforge-1.2
 hash = 'f9602c7f9a8268507a835bfa47db1512d356dae7'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8002670

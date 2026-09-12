@@ -1,6 +1,6 @@
 filename = 'betterworldloadingnf21-1.0.jar'
 name = 'Better World Loading'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'

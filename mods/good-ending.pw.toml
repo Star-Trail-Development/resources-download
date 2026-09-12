@@ -1,6 +1,6 @@
 filename = 'GoodEnding-1.21.1-1.1.1-NeoForge.jar'
 name = 'Good Ending'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'Good Ending 1.21.1 - 1.1.1 - NEOFORGE'
 hash = '66db0dfc874ca396befa60d8d315430e2997d65c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8434874

@@ -1,6 +1,6 @@
 filename = 'kubejsdelight-1.1.6.jar'
 name = 'KubeJSDelight'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'kubejsdelight-1.21.1-1.1.6.jar'
 hash = '66a5de83677d38828242ab3dc96bf1b6f2771198'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8192573

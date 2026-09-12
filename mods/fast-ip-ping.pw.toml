@@ -1,6 +1,6 @@
 filename = 'fast-ip-ping-v1.0.11-mc1.21.1-neoforge.jar'
 name = 'Fast IP Ping'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = '[neoforge] Fast IP Ping v1.0.11 for mc1.21.1'
 hash = '3e1a403f9298db23c163dbd85ab68210b4a8c688'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7936390

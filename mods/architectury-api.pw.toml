@@ -1,6 +1,6 @@
 filename = 'architectury-13.0.11-neoforge.jar'
 name = 'Architectury'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = '[NeoForge 1.21] v13.0.11'
 hash = '008656a0702801174b8ec245ed7aad1921d6e9f1'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8492726

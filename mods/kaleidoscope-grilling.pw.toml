@@ -1,18 +1,21 @@
-filename = 'kaleidoscope_grilling-1.0.1-neoforge1.21.1.jar'
+filename = 'kaleidoscope_grilling-1.1.1-neoforge1.21.1.jar'
 name = 'Kaleidoscope Grilling'
-side = 'both'
-x-prismlauncher-dependencies = []
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.1'
+x-prismlauncher-version-number = '1.1.1'
 
 [download]
-hash = '994774a6b2788873aa91c0a211ee956a501282d1d8f4723fefc819c7e171e0be8ff78314084355c57c27017b63bdf61380cd0ae97cc6eacf5ae5896d8f2117a6'
+hash = '4ca960b7dc97e5a1f52844076d950b2e455a3b230dc4ce3f880be955cb580ed0c1f2d2cc70fd8ffb14e189722371ac88d999f0d15f77139cb06c72bf97c1dd28'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/LPZkep5R/versions/cNf4mHbU/kaleidoscope_grilling-1.0.1-neoforge1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/LPZkep5R/versions/ao5iN7Jb/kaleidoscope_grilling-1.1.1-neoforge1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'LPZkep5R'
-version = 'cNf4mHbU'
+version = 'ao5iN7Jb'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'v17FatAc'
+type = 'REQUIRED'

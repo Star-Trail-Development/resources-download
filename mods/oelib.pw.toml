@@ -1,6 +1,6 @@
 filename = 'OELib-neoforge-1.21.1-0.2.3.jar'
 name = 'One Enough Lib'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'OELib-neoforge-1.21.1-0.2.3.jar'
 hash = '8457b2423f62c896ef8c290ab511a0a71b442750'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7886017

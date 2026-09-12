@@ -1,18 +1,19 @@
-filename = 'extendedae_plus-1.5.5.jar'
+filename = 'extendedae_plus-1.6.2.jar'
 name = 'ExtendedAE-Plus'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'ExtendedAE-Plus 1.5.5 [NeoForge 1.21.1]'
+x-prismlauncher-version-number = 'ExtendedAE-Plus 1.6.2 [NeoForge 1.21.1]'
 
 [download]
-hash = '7e6aa6ac5cfbcbbfbb43eacdebb9900929352cad'
+hash = 'da89d21be9947a2baf8e6b73d80ac3e52f57a64d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
-file-id = 8379620
+file-id = 8755074
 project-id = 1337639
 
 [[x-prismlauncher-dependencies]]

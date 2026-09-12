@@ -1,6 +1,6 @@
 filename = 'AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar'
 name = 'AmbientSounds 6'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'AmbientSounds_NEOFORGE_v6.3.8_mc1.21.1.jar'
 hash = 'c79ab328b2c46068effebdcb3f26e98dc4404cb0'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8043019

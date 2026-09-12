@@ -1,6 +1,6 @@
 filename = 'vintageimprovements-1.21.1-0.0.0.7.jar'
 name = 'Create: Vintage Improvements'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'vintageimprovements-1.21.1-0.0.0.7.jar'
 hash = 'd6b897125ecd1046bda9eec7a678504375e71603'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8600647

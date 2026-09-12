@@ -1,6 +1,6 @@
 filename = 'forgematica-0.4.2+mc1.21.1.jar'
 name = 'Forgematica'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = '0.4.2+mc1.21.1'
 hash = '586c374d30d7a110c2f940b17cb0faac377e51c8'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8385520

@@ -1,6 +1,6 @@
 filename = 'regions-unexplored-0.6.2-neoforge-21.1.jar'
 name = 'Regions Unexplored'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'v0.6.2 ~ Neoforge 21.1'
 hash = '122586c147f0aa1efdc655792b6ef24aebbbba84'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8419667

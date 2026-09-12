@@ -1,6 +1,6 @@
 filename = 'biolith-neoforge-3.0.14.jar'
 name = 'Biolith'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'Biolith Neoforge v3.0.14 for 1.21.1'
 hash = '8b041bce1cd0c5f5223c285784a3e8498273d6ea'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8435635

@@ -1,6 +1,6 @@
 filename = 'mcw-roofs-2.3.2-mc1.21.1neoforge.jar'
 name = "Macaw's Roofs"
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'v2.3.2 / mc1.21.1 - NeoForge'
 hash = '05806ff152fab56f7c1b4b215d772ea73611283d'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 6494399

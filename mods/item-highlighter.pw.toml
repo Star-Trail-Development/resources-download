@@ -1,6 +1,6 @@
 filename = 'Highlighter-1.21-neoforge-1.1.11.jar'
 name = 'Item Highlighter [Neo/Forge]'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'Highlighter-1.21-neoforge-1.1.11.jar'
 hash = '22d29eba774530b40a540fdf5ce2d14d89bbe036'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 5591015

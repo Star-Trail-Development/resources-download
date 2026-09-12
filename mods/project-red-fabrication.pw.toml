@@ -1,6 +1,6 @@
 filename = 'ProjectRed-1.21.1-4.23.0-beta+8-fabrication.jar'
 name = 'ProjectRed Fabrication'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'ProjectRed-1.21.1-4.23.0-beta+8-fabrication.ja
 hash = '031646c99be04a6c724615b592746448c1d328e9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8438006

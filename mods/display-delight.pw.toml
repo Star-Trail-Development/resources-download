@@ -1,6 +1,6 @@
 filename = 'displaydelight-1.7.0.jar'
 name = 'Display Delight'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'displaydelight-1.7.0.jar'
 hash = '0d2040a348a1d42907561babff9ac983c466b825'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8242893

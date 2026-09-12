@@ -1,6 +1,6 @@
 filename = 'mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar'
 name = "Macaw's Trapdoors"
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'v1.1.5 / mc1.21.1 - NeoForge'
 hash = '1f8b59e31f889f53b6296b42ee09d447e7e56620'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 7256148

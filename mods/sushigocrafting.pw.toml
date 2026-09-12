@@ -1,18 +1,19 @@
-filename = 'sushigocrafting-1.21-0.6.5.jar'
+filename = 'sushigocrafting-1.21-0.6.6.jar'
 name = 'Sushi Go Crafting'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
-x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = 'sushigocrafting-1.21-0.6.5.jar'
+x-prismlauncher-version-number = 'sushigocrafting-1.21-0.6.6.jar'
 
 [download]
-hash = '328da659d28e6a900d12f5638878998a796abd68'
+hash = 'a15c7feacd50819a5148d5a83bcfa2438db584c6'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
-file-id = 6626716
+file-id = 8772115
 project-id = 452500
 
 [[x-prismlauncher-dependencies]]

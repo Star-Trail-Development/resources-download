@@ -1,6 +1,6 @@
 filename = 'AE2MEGAThings-1.21.1-2.0.4.jar'
 name = 'AE2 MEGA Things'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = '[1.21.1] v2.0.4'
 hash = '5df271ee7c41abe2fa753842b778a4c7ac1290b9'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 6203833

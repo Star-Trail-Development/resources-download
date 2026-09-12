@@ -1,6 +1,6 @@
 filename = 'superDuperVanilla.zip'
 name = 'Super Duper Vanilla Shaders'
-side = 'both'
+side = ''
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = []
 x-prismlauncher-mc-versions = [
@@ -34,6 +34,7 @@ x-prismlauncher-version-number = 'Super Duper Vanilla 1.3.8'
 hash = 'f2d6d259368e8b8d8807abb1ac28aaa7cff85b8c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 6745820

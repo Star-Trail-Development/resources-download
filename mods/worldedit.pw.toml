@@ -1,6 +1,6 @@
 filename = 'worldedit-mod-7.3.8.jar'
 name = 'WorldEdit'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge', 'fabric' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
@@ -11,6 +11,7 @@ x-prismlauncher-version-number = 'WorldEdit 7.3.8 (NeoForge/Fabric for MC 1.21-1
 hash = '924fe181a29bd66be6783f6d589968ab0ee02250'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 5830452

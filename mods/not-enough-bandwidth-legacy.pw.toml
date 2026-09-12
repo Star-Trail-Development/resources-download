@@ -1,17 +1,18 @@
-filename = 'nebl-21.1.11-neoforge+1.21.1.jar'
+filename = 'nebl-21.1.12-neoforge+1.21.1.jar'
 name = 'NotEnoughBandwidthLegacy'
-side = 'both'
+side = 'server'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'nebl-21.1.11-neoforge+1.21.1.jar'
+x-prismlauncher-version-number = 'nebl-21.1.12-neoforge+1.21.1.jar'
 
 [download]
-hash = 'a6bd91cc4792a47f1098b2cde3c23e80f24d9563'
+hash = 'b22a4b1af1fe5729af3dc726b9a80ec66c9b889c'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
-file-id = 8632528
+file-id = 8685478
 project-id = 1522308

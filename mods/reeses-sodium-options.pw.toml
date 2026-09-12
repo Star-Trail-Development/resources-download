@@ -1,6 +1,6 @@
 filename = 'reeses-sodium-options-neoforge-2.2.3+mc1.21.1.jar'
 name = "Reese's Sodium Options"
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = "[NeoForge] Reese's Sodium Options 2.2.3 - Mine
 hash = '904f815b1f5c48703c354d432fcbc3531022337f'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8410876

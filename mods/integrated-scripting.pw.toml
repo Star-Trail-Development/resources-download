@@ -1,24 +1,25 @@
-filename = 'integratedscripting-1.21.1-neoforge-1.0.26.jar'
+filename = 'integratedscripting-1.21.1-neoforge-1.0.27.jar'
 name = 'IntegratedScripting'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = 'integratedscripting-1.21.1-neoforge-1.0.26.jar'
+x-prismlauncher-version-number = 'integratedscripting-1.21.1-neoforge-1.0.27.jar'
 
 [download]
-hash = '574f5e817b393cca2c34eaf0d04780a4d3e131c4'
+hash = 'de18d01b3bb059e7a09b1c12b0c5d7540aa509a2'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
-file-id = 8641310
+file-id = 8813526
 project-id = 889785
 
 [[x-prismlauncher-dependencies]]
-addonId = '236307'
+addonId = '232758'
 type = 'REQUIRED'
 
 [[x-prismlauncher-dependencies]]
-addonId = '232758'
+addonId = '236307'
 type = 'REQUIRED'

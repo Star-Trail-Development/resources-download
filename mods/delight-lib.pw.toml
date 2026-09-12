@@ -1,6 +1,6 @@
 filename = 'delightlib-26.05.18-1.21-neoforge.jar'
 name = 'Delight Lib'
-side = 'both'
+side = 'server'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
@@ -10,6 +10,7 @@ x-prismlauncher-version-number = 'Delight Lib 26.05.18 - 1.21+'
 hash = '67ee97c66767ae6cc15b0ad3867abfdbfa203ca4'
 hash-format = 'sha1'
 mode = 'metadata:curseforge'
+url = ''
 
 [update.curseforge]
 file-id = 8111479
