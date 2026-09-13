@@ -20,6 +20,8 @@ jobs:
       # 1. 检出代码（内含 pack.toml 等）
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 2
 
       # 2. 设置 Java（packwiz-installer 需要 Java）
       - name: Set up Java
@@ -58,7 +60,7 @@ jobs:
             https://github.com/packwiz/packwiz-installer-bootstrap/releases/latest/download/packwiz-installer-bootstrap.jar
           java -jar packwiz-installer-bootstrap.jar -g pack.toml
 
-      # 6. 将 Packwiz 下载的资源逐个上传到 FileHub，保留原有目录结构
+          # 6. 比较哈希后上传资源到 FileHub，保留原有目录结构
       - name: Upload downloaded resources to FileHub
         env:
           FILEHUB_URL: ${{ secrets.FILEHUB_URL }}
@@ -97,14 +99,102 @@ jobs:
             exit 1
           fi
 
+          # 上传前读取远端清单：已有完整路径的文件直接跳过，避免重复覆盖。
+          index_json="$(curl --fail-with-body --show-error --silent \
+            --proto '=https' --tlsv1.2 \
+            --retry 3 --retry-delay 2 --retry-connrefused \
+            "${filehub_url}/index.json")"
+
+          if ! jq -e '
+            ((.files | type) == "array")
+            and all(.files[];
+              ((.path | type) == "string")
+              and ((.sha256 | type) == "string")
+            )
+          ' >/dev/null <<<"$index_json"; then
+            echo "FileHub returned an invalid file index" >&2
+            exit 1
+          fi
+
+          managed_prefixes=(
+            "mods/"
+            "resourcepacks/"
+            "shaderpacks/"
+          )
+          mapfile -t remote_resource_entries < <(
+            jq -r \
+              --arg mods_prefix "${managed_prefixes[0]}" \
+              --arg resourcepacks_prefix "${managed_prefixes[1]}" \
+              --arg shaderpacks_prefix "${managed_prefixes[2]}" '
+              .files[]
+              | select(
+                  (.path | startswith($mods_prefix))
+                  or (.path | startswith($resourcepacks_prefix))
+                  or (.path | startswith($shaderpacks_prefix))
+                )
+              | "\(.path)\t\(.sha256)"
+            ' <<<"$index_json"
+          )
+
+          remote_resource_paths=()
+          declare -A remote_resource_sha256=()
+          for entry in "${remote_resource_entries[@]}"; do
+            IFS=$'\t' read -r remote_path remote_sha256 <<<"$entry"
+            remote_resource_paths+=("$remote_path")
+            remote_resource_sha256["$remote_path"]="$remote_sha256"
+          done
+
+          declare -A remote_resource_path_set=()
+          for remote_path in "${remote_resource_paths[@]}"; do
+            remote_resource_path_set["$remote_path"]=1
+          done
+
+          # 通过当前元数据文件和父提交中的 filename，记录改名时的旧路径。
+          declare -A previous_resource_path=()
+          for dir in "${resource_dirs[@]}"; do
+            while IFS= read -r -d '' metadata_file; do
+              current_filename="$(sed -nE "s/^[[:space:]]*filename[[:space:]]*=[[:space:]]*(['\"])(.*)\1[[:space:]]*$/\2/p" "$metadata_file" | head -n 1)"
+              old_filename="$(git show "HEAD^:$metadata_file" 2>/dev/null | sed -nE "s/^[[:space:]]*filename[[:space:]]*=[[:space:]]*(['\"])(.*)\1[[:space:]]*$/\2/p" | head -n 1 || true)"
+              if [[ -n "$current_filename" && -n "$old_filename" ]]; then
+                current_path="$dir/$current_filename"
+                old_path="$dir/$old_filename"
+                if [[ "$current_path" != "$old_path" && ${remote_resource_path_set["$old_path"]+_} ]]; then
+                  previous_resource_path["$current_path"]="$old_path"
+                fi
+              fi
+            done < <(find "$dir" -maxdepth 1 -type f -name '*.pw.toml' -print0)
+          done
+
           current_resource_paths=()
+          uploaded_count=0
+          overwritten_count=0
+          skipped_count=0
           for local_file in "${resource_files[@]}"; do
             remote_path="$local_file"
             encoded_path="$(python3 -c 'import sys, urllib.parse; print("/".join(urllib.parse.quote(part, safe="") for part in sys.argv[1].split("/")))' "$remote_path")"
             local_sha256="$(sha256sum "$local_file" | cut -d ' ' -f 1)"
             current_resource_paths+=("$remote_path")
 
-            echo "Uploading $local_file -> $remote_path"
+            old_path="${previous_resource_path["$remote_path"]:-$remote_path}"
+            existing_sha256="${remote_resource_sha256["$remote_path"]-}"
+            if [[ -n "$existing_sha256" && "$existing_sha256" == "$local_sha256" ]]; then
+              echo "Skipping unchanged resource: $old_path (sha256=$existing_sha256) -> $remote_path (sha256=$local_sha256)"
+              ((skipped_count += 1))
+              continue
+            fi
+
+            if [[ ${remote_resource_path_set["$remote_path"]+_} ]]; then
+              echo "Overwriting updated resource: $old_path (sha256=$existing_sha256) -> $remote_path (sha256=$local_sha256)"
+              ((overwritten_count += 1))
+            else
+              previous_sha256="${remote_resource_sha256["$old_path"]-}"
+              if [[ -n "$previous_sha256" ]]; then
+                old_resource="${old_path} (sha256=${previous_sha256})"
+              else
+                old_resource="${old_path}"
+              fi
+              echo "Uploading new resource: $old_resource -> $remote_path (sha256=$local_sha256)"
+            fi
             response="$(curl --fail-with-body --show-error --silent \
               --proto '=https' --tlsv1.2 \
               --retry 3 --retry-delay 2 --retry-connrefused \
@@ -119,48 +209,16 @@ jobs:
               echo "SHA256 mismatch after uploading $local_file" >&2
               exit 1
             fi
+            ((uploaded_count += 1))
           done
 
-          echo "Uploaded and verified ${#resource_files[@]} resource file(s)"
+          echo "Uploaded $uploaded_count new resource file(s), overwrote $overwritten_count updated file(s), skipped $skipped_count unchanged file(s)"
 
           # 上传全部成功后，将三个远端资源目录同步为当前清单，清理旧版本文件。
           if (( ${#current_resource_paths[@]} == 0 )); then
             echo "No local resource files were found; refusing to clean remote directories" >&2
             exit 1
           fi
-
-          index_json="$(curl --fail-with-body --show-error --silent \
-            --proto '=https' --tlsv1.2 \
-            --retry 3 --retry-delay 2 --retry-connrefused \
-            "${filehub_url}/index.json")"
-
-          if ! jq -e '
-            ((.files | type) == "array")
-            and all(.files[]; (.path | type) == "string")
-          ' >/dev/null <<<"$index_json"; then
-            echo "FileHub returned an invalid file index" >&2
-            exit 1
-          fi
-
-          managed_prefixes=(
-            "mods/"
-            "resourcepacks/"
-            "shaderpacks/"
-          )
-          mapfile -t remote_resource_paths < <(
-            jq -r \
-              --arg mods_prefix "${managed_prefixes[0]}" \
-              --arg resourcepacks_prefix "${managed_prefixes[1]}" \
-              --arg shaderpacks_prefix "${managed_prefixes[2]}" '
-              .files[]
-              | select(
-                  (.path | startswith($mods_prefix))
-                  or (.path | startswith($resourcepacks_prefix))
-                  or (.path | startswith($shaderpacks_prefix))
-                )
-              | .path
-            ' <<<"$index_json"
-          )
 
           deleted_count=0
           for remote_path in "${remote_resource_paths[@]}"; do
